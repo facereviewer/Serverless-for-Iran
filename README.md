@@ -7,8 +7,9 @@
 # Subscription
 
 کافی است آدرس subscription را در برنامه v2rayN/v2rayNG وارد کنید:
-
-**https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main/Subscription/Serverless-for-Iran.json**
+```bash
+https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main/Subscription/Serverless-for-Iran.json#Patterniha
+```
 
 # نکات استفاده
 
